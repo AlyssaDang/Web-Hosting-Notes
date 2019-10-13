@@ -22,10 +22,18 @@ Servers generally have to work for long periods of time without interruption so 
 
 Some Types Of Servers:
 
-    Web Server: A web server shows pages and runs apps, which are accessed over the internet though a Client like a web browser. The web browser is a Client connected to a web server which delivers data like web pages and the information on them. In the case of a web server, the Client is most likely a browser like Internet Explorer, Chrome, Firefox, Opera, or Safari. 
-    Email Server: An email server facilitates the sending and receiving of email messages. 
-    File Transfer Protocol (FTP) Server: FTP servers support the moving of files through File Transfer Protocol tools. FTP server are accessible remotely via FTP client programs, which connect directly to the file share on the server. 
-    Identity Server: Identity servers support logins and security roles for authorized users. 
+    Web Server: A web server shows pages and runs apps, which are accessed over 
+    the internet though a Client like a web browser. The web browser is a Client 
+    connected to a web server which delivers data like web pages and the 
+    information on them. In the case of a web server, the Client is most likely 
+    a browser like Internet Explorer, Chrome, Firefox, Opera, or Safari. 
+    Email Server: An email server facilitates the sending and receiving of email 
+    messages. 
+    File Transfer Protocol (FTP) Server: FTP servers support the moving of files 
+    through File Transfer Protocol tools. FTP server are accessible remotely via 
+    FTP client programs, which connect directly to the file share on the server. 
+    Identity Server: Identity servers support logins and security roles for 
+    authorized users. 
 
 Virtual Private Server (VPS): A virtual machine provided by a web hosting company that provides admin rights and root access 
 to the Client so that you can install any required software. It caters to the individual needs of the user just as a separate computer that is dedicated to a particular user. The VPS provides the same functionality and privacy as that of a normal physical computer. Multiple VPS's can be installed on a single physical server, which each one running its own OS.

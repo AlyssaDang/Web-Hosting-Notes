@@ -15,10 +15,10 @@ Notes By: Alyssa Dang
         
         ![Client-Server Model](/Server-Client-Model.png)
         
-        The purpose of a computer server program is to store, retrieve, and send computer files and data to other computers (the 
-        Clients). The hardware requirements for the Server vary accordinf to the server applications and the number of Clients. 
-        Servers generally have to work for long periods of time without interruption so the reliability and power of the hardware 
-        are essential. Because servers require stable power supply, good internet (network) access, and increased security, they 
-        are usually stored in a dedicated server room or center.
+        The purpose of a computer server program is to store, retrieve, and send computer files and data to other 
+        computers (the Clients). The hardware requirements for the Server vary accordinf to the server applications 
+        and the number of Clients. Servers generally have to work for long periods of time without interruption so 
+        the reliability and power of the hardware are essential. Because servers require stable power supply, good 
+        internet (network) access, and increased security, they are usually stored in a dedicated server room or center.
         
 VPS: Virtual Private Server

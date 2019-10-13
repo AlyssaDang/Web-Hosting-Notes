@@ -5,7 +5,7 @@ Source of Information: CSCE 313 Class Lecture, General Googling, Etc... condense
 
 Notes By: Alyssa Dang
 
-#####Server and Client
+##### Server and Client
 
         **What is a server? - A computer program that provides services to other computer programs (and users).** 
         The computer on which the server software is running is also known as the **Server**.

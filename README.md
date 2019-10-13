@@ -27,11 +27,14 @@ Some Types Of Servers:
     connected to a web server which delivers data like web pages and the 
     information on them. In the case of a web server, the Client is most likely 
     a browser like Internet Explorer, Chrome, Firefox, Opera, or Safari. 
+    
     Email Server: An email server facilitates the sending and receiving of email 
     messages. 
+    
     File Transfer Protocol (FTP) Server: FTP servers support the moving of files 
     through File Transfer Protocol tools. FTP server are accessible remotely via 
     FTP client programs, which connect directly to the file share on the server. 
+    
     Identity Server: Identity servers support logins and security roles for 
     authorized users. 
 

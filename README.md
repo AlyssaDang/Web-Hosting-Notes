@@ -22,9 +22,10 @@ Servers generally have to work for long periods of time without interruption so 
 
 Some Types Of Servers:
 
-    Web Server: A web server shows pages and runs apps, which are accessed over the internet though a Cient like a web browser. 
-    The web browser is a Client connected to a web server which delivers data like web pages and the information on them. 
-    In the case of a web server, the Client is most likely a browser like Internet Explorer, Chrome, Firefox, Opera, or Safari. 
+    Web Server: A web server shows pages and runs apps, which are accessed over the internet though a 
+    Cient like a web browser. The web browser is a Client connected to a web server which delivers data 
+    like web pages and the information on them. In the case of a web server, the Client is most likely a 
+    browser like Internet Explorer, Chrome, Firefox, Opera, or Safari. 
     Email Server: An email server facilitates the sending and receiving of email messages. 
     File Transfer Protocol (FTP) Server: FTP servers support the moving of files through File Transfer Protocol tools. 
     FTP server are accessible remotely via FTP client programs, which connect directly to the file share on the server. 

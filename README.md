@@ -1,5 +1,5 @@
 # Web-Hosting-Notes
-Contains all my notes and information regarding me learning web-development.
+My notes and information regarding me learning web-development.
 
 Source of Information: CSCE 313 Class Lecture, General Googling, Etc... condensed into summarized text
 

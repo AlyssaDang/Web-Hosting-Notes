@@ -13,7 +13,7 @@ The other computer which gets service from the server program computer is also k
 Usually, the Client is on another system or computer, which can be accessed through a **Network**.
 A computer network is the interconnection of multiple devices (physically or wirelessly).
         
-![Server-Client Model] (https://github.com/AlyssaDang/Web-Hosting-Notes/blob/master/notesImages/Server-Client-Model.png)
+![Server-Client Model](https://github.com/AlyssaDang/Web-Hosting-Notes/blob/master/notesImages/Server-Client-Model.png)
 
 The purpose of a computer server program is to store, retrieve, and send computer files and data to other computers (the Clients). 
 The hardware requirements for the Server vary according to the server applications and the number of Clients. 

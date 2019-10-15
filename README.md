@@ -40,4 +40,4 @@ Some Types Of Servers:
 
 Virtual Private Server (VPS): A virtual machine provided by a web hosting company that provides admin rights and root access 
 to the Client so that you can install any required software. It caters to the individual needs of the user just as a separate computer that is dedicated to a particular user. The VPS provides the same functionality and privacy as that of a normal physical computer. Multiple VPS's can be installed on a single physical server, which each one running its own OS.
-A VPS can consist of Web server software, a mail server program, a FTP program, and more such as different types of application software for blogging and e-comerce.
+A VPS can consist of Web server software, a mail server program, a FTP program, and more such as different types of application software for blogging and e-commerce.

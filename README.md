@@ -2,7 +2,7 @@
 
 Notes By: Alyssa Dang
 
-Source of Information: CSCE 313 Class Lecture, General Googling, Etc... condensed into summarized text
+Source of Information: CSCE 313 Class Lecture, Google, Etc... condensed into a summary
 
 ## Server and Client
 
